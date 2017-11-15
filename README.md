@@ -2,12 +2,12 @@
 
 # arduino pin connection
  
- *            UNO R3 pin   MAX PIN
- *                10      CS 
- *                11      DIN
- *                13      CLK 
- *                GND     GND
- *                5V      VCC
+            UNO R3 pin   MAX PIN
+                10      CS 
+                11      DIN
+                13      CLK 
+                GND     GND
+                5V      VCC
 
 
 # Arduino Matrix Dispaly Guide
